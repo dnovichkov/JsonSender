@@ -1,0 +1,14 @@
+altgraph==0.17.2
+certifi==2022.5.18.1
+chardet==4.0.0
+colorama==0.4.4
+future==0.18.2
+idna==2.10
+loguru==0.6.0
+pefile==2022.5.30
+pyinstaller==4.2
+pyinstaller-hooks-contrib==2022.6
+pywin32-ctypes==0.2.0
+requests==2.25.1
+urllib3==1.26.9
+win32-setctime==1.1.0
