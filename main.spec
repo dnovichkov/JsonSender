@@ -25,7 +25,6 @@ a = Analysis(['main.py'],
              binaries=[],
              datas=[
              ('README.md', '.'),
-             ('request__2022-05-31 11-35-56_.json', '.'),
              ('simple_request.json', '.'),
              ],
              hiddenimports=['win32timezone', 'logging', 'uvicorn.logging'],
