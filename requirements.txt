@@ -6,8 +6,8 @@ future==0.18.2
 idna==2.10
 loguru==0.6.0
 pefile==2022.5.30
-pyinstaller==4.2
-pyinstaller-hooks-contrib==2022.6
+pyinstaller
+pyinstaller-hooks-contrib
 pywin32-ctypes==0.2.0
 requests==2.25.1
 urllib3==1.26.9
