@@ -1,3 +1,5 @@
+[![GitHub Actions Build](https://github.com/dnovichkov/JsonSender/actions/workflows/github-build.yml/badge.svg)](https://github.com/dnovichkov/JsonSender/actions/workflows/github-build.yml)
+
 Программа отправляет JSON-файлы на указанный url.
 Параметры:
   -file FILE  Файл для отправки. Значение по умолчанию: simple_request.json
