@@ -13,7 +13,7 @@ jobs:
         uses: py-actions/py-dependency-install@v4
       - run: pyinstaller main.spec
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: file
-          path: |
+          name: json_sender_dist
+          path: dist/maint
