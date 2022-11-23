@@ -16,4 +16,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: json_sender_dist
-          path: dist/maint
+          path: dist_/**/*.zip
